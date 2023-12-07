@@ -1,0 +1,21 @@
+html{
+    background-color: #fc0202;
+  }
+  .wall{
+    position: absolute;
+    background-color: black;
+  
+  }
+  .ring-box{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+  }
+  #ring{
+    position: absolute;
+    object-fit: cover;
+  }
+  #h{
+    text-align: center;
+    top: 0%;
+  }
